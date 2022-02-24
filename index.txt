@@ -1,0 +1,6 @@
+<!DOCTYPE html5>
+<html>
+	<body>
+		<h1>HI! Welcome to github.</h1>
+	</body>	
+</html>
